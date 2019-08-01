@@ -16,7 +16,7 @@ Documentation for an individual project should stay with that project repo
 as much as possible.
 
 News and updates should be
-[posted to the blog instead](https://github.com/psas/blog).
+[posted to the blog instead](https://github.com/psas/blog). -UPDATE as of 8/1/19 the blog has been stagnant for a tad long, while its a noble goal and should be pursued, we are not pushing for it right now.
 
 
 ## Editing
